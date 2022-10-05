@@ -1,0 +1,176 @@
+html {
+    font-size: 100%;
+}
+
+.include-all{
+    background-color: #FFAE42;
+    display: flex;
+    flex-direction: column;
+    height: 48rem;
+
+}
+
+.name {
+    display: flex;
+    text-align: center;
+    padding-top: 10rem;
+    font-size: 5rem;
+    flex-direction: column;
+    font-family:Arial, Helvetica, sans-serif;
+   
+}
+
+.intro {
+    display: flex;
+    font-size: 2rem;
+    padding-top: 5rem;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.Button{
+    padding: 5rem ;
+
+}
+
+.b-con{
+    display: flex;
+    text-align: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 5rem;
+    margin-bottom: 2rem;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.hireavendor{
+   display: flex;
+   float: left;
+   flex: 20%;
+   margin-left: 20rem;
+}
+
+.joinus{
+    display: flex;
+    flex: 20%;
+    }
+
+
+
+.Middle{
+    display: flex;
+    flex-direction: row;
+    background-color: #FFAE42;
+    height: 48rem;
+    padding-top: 5rem;
+}
+
+.info-corpoate{
+    display: flex;
+    flex-direction: column;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.h-con{
+     font-size: 2.5rem;
+     margin-left: 3rem;
+   
+}
+
+.i-con{
+    font-size: 1.5rem;
+    margin-left: 3rem;
+}
+
+
+.mcontainer{
+    margin-right: 2.5rem;
+    background-color: antiquewhite;
+    font-family:Arial, Helvetica, sans-serif;
+    border-radius: .5rem;
+
+
+}
+
+.Middle2{
+    display: flex;
+    flex-direction: row;
+    background-color: #FFAE42;
+    height: 48rem;
+    padding-top: 5rem;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.info-Vendor{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.j-con{
+    float: left;
+    font-size: 2.5rem;
+    margin-left: 3rem;
+
+}
+
+.k-con{
+    font-size: 1.5rem;
+    margin-left: 3rem;
+}
+
+
+.n-container{
+    
+    margin-right: 2.5rem;
+    background-color: antiquewhite;
+    border-radius: .5rem;
+    
+
+}
+
+.i-all{
+    display: flex;
+    flex-direction: column;
+    background-color: #FFAE42;
+    height: 45rem;
+    padding-top: 5rem;
+    font-family:Arial, Helvetica, sans-serif;
+
+
+}
+
+.c-container{
+    
+    font-size: 3.5rem;
+    text-align: center;
+}
+
+.p-container{
+    font-size: 2.5rem;
+    text-align: center
+
+}
+
+.mail{
+    font-size: 2.5rem;
+    text-align: center
+
+}
+
+
+
+
+
+
+
+@media(max-width:998px){
+    html{
+        font-size: 55%;
+    }
+}
+@media(max-width:768px){
+    html{
+        font-size: 45%;
+    }
+}
